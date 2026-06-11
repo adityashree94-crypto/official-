@@ -45,7 +45,7 @@ EOF
     echo -e "${NC}"
 
     echo -e "${VIOLET}╔══════════════════════════════════════════════════════════════════════════════╗${NC}"
-    echo -e "${VIOLET}║${NC}                     ${NEON}ADITYA SHREE CLOUD SYSTEMS HACKING${NC}                      ${VIOLET}║${NC}"
+    echo -e "${VIOLET}║${NC}                     ${NEON}ADITYA SHREE CLOUD SYSTEMS${NC}                      ${VIOLET}║${NC}"
     echo -e "${VIOLET}║${NC}                     ${Y}Founder: Aditya Shree${NC}                            ${VIOLET}║${NC}"
     echo -e "${VIOLET}║${NC}                     ${DG}Sasta Developer${NC}                                  ${VIOLET}║${NC}"
     echo -e "${VIOLET}║${NC}                     ${G}Elite Infrastructure Online${NC}                      ${VIOLET}║${NC}"
